@@ -1,7 +1,7 @@
-#ANTC
+# ANTC
 
 
-#Codes for Robust feature matching via advanced neighborhood topology consensus
+# Codes for Robust feature matching via advanced neighborhood topology consensus
 
 * ANTC is able to select reliable correspondences from the contaminated putative sets in linear time complexity.
     
